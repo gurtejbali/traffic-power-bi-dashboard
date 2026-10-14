@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that shows when traffic is heaviest on the I-94 highway between Minneapolis and St Paul, using hourly data from 2012 to 2018.
 
-![Dashboard](traffic_dashboad_screenshot.png)
+![Dashboard](traffic%20dashboard%20screenshot.png)
 
 ## Questions the dashboard answers
 - At what hours of the day is traffic heaviest, and does it differ on weekdays and weekends?
